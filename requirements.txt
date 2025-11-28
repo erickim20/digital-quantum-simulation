@@ -1,0 +1,11 @@
+# Core scientific computing packages
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+tqdm>=4.65.0
+
+# Qiskit packages
+qiskit>=1.2.0
+qiskit-algorithms>=0.2.0
+qiskit-aer>=0.14.0
+
